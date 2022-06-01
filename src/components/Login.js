@@ -1,5 +1,4 @@
 import React from "react";
-import logo from "../logo.svg";
 import { AuthContext } from "../App";
 
 export const Login = () => {
